@@ -14,7 +14,7 @@ I am transitioning into the Data & Innovation field, bringing experience in proc
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 
-📌 Interests
+##📌 Interests
 
 - Process automation with Python and VBA
 
@@ -26,13 +26,13 @@ I am transitioning into the Data & Innovation field, bringing experience in proc
 
 - Building tools that save time and reduce risks
 
-⚡ Curious fact:
-- Urban style dancer
+##⚡ Curious fact:
+- 🕹️ "I believe work shouldn’t look like it did in the 2000s—technology is here to make it smarter."
 
-🤝 Let’s Connect
+## 📫 Let's Connect  
 
+[LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/ricardouculmanaquispe/)) | [Notion]([https://tu_notion_url](https://www.notion.so/Portfolio-de-proyectos-222662e8c9dc80ae9b68d1d797ae0afc)) | [Email](mailto:rfuculmana@gmail.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TU_USUARIO/](https://www.linkedin.com/in/ricardouculmanaquispe/)) [![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)]([https://TU_URL_DE_NOTION](https://www.notion.so/Portfolio-de-proyectos-222662e8c9dc80ae9b68d1d797ae0afc?p=222662e8c9dc81eb9c91facfa65f77c7&pm=c)) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rfuculmana@gmail.com)
 
 <!--
 **Merlin2098/Merlin2098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
