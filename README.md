@@ -16,18 +16,18 @@ I am transitioning into the Data & Innovation field, bringing experience in proc
 
 📌 Interests
 
-Process automation with Python and VBA
+- Process automation with Python and VBA
 
-Data analysis for decision-making
+- Data analysis for decision-making
 
-Machine learning
+- Machine learning
 
-Digital innovation and business transformation
+- Digital innovation and business transformation
 
-Building tools that save time and reduce risks
+- Building tools that save time and reduce risks
 
 ⚡ Curious fact:
-Urban style dancer
+- Urban style dancer
 
 🤝 Let’s Connect
 
