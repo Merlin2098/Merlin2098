@@ -31,8 +31,6 @@ I am transitioning into the Data & Innovation field, bringing experience in proc
 
 ## 📫 Let's Connect  
 
-## 📫 Let's Connect  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardouculmanaquispe/) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-de-proyectos-222662e8c9dc80ae9b68d1d797ae0afc) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rfuculmana@gmail.com)
 
 
