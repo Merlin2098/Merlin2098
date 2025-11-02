@@ -1,6 +1,6 @@
 ## Hi there,👋 I'm Ricardo Uculmana!
 
-I am transitioning into the Data & Innovation field, bringing experience in process automation and a passion for using technology to solve business problems. My background in HR gave me a strong foundation in management, and now I’m expanding into data analytics, automation, and digital transformation.
+I am transitioning into the Data & Innovation field, bringing experience in process automation and a passion for using technology to solve business problems. My background in Management gave me a strong foundation in management, and now I’m expanding into data analytics, automation, and digital transformation.
 
 ### 🔧 Tech Stack
 
