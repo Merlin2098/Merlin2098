@@ -1,6 +1,15 @@
-## Hi there,👋 I'm Ricardo Uculmana!
+# Ricardo Uculmana | Data Analyst & Automation Engineer
 
-I am transitioning into the Data & Innovation field, bringing experience in process automation and a passion for using technology to solve business problems. My background in Management gave me a strong foundation in management, and now I’m expanding into data analytics, automation, and digital transformation.
+Data Analyst specializing in building end-to-end data pipelines that transform 
+raw operational data into actionable insights. I combine data engineering skills 
+(Python, DuckDB, SQL) with business intelligence tools (Power BI, Tableau) to 
+automate processes and enable data-driven decision-making at scale.
+
+**What I do:**
+- Design ETL pipelines processing 10k+ monthly transactions with Python and DuckDB
+- Build automation systems handling 8k+ documents monthly with scalable architectures
+- Develop predictive models using ML/NLP for workforce planning and risk analysis
+- Create interactive dashboards translating complex data into executive insights
 
 ### 🔧 Tech Stack
 
@@ -13,18 +22,8 @@ I am transitioning into the Data & Innovation field, bringing experience in proc
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-
-##📌 Interests
-
-- Process automation with Python and VBA
-
-- Data analysis for decision-making
-
-- Machine learning
-
-- Digital innovation and business transformation
-
-- Building tools that save time and reduce risks
+Currently expanding into advanced analytics and machine learning while preparing 
+for a Master's in Business Analytics.
 
 ##⚡ Curious fact:
 - 🕹️ "I believe work shouldn’t look like it did in the 2000s—technology is here to make it smarter."
