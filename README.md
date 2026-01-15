@@ -1,32 +1,35 @@
-# Ricardo Uculmana | Data Analyst & Automation Engineer
+## 👋 Hi, I'm Ricardo
 
-Data Analyst specializing in building end-to-end data pipelines that transform 
-raw operational data into actionable insights. I combine data engineering skills 
-(Python, DuckDB, SQL) with business intelligence tools (Power BI, Tableau) to 
-automate processes and enable data-driven decision-making at scale.
+Data Analyst with a strong focus on **end-to-end data solutions**, specializing in transforming raw operational data into **actionable, decision-ready insights**. I work at the intersection of **data engineering, analytics, and automation**, helping organizations scale reporting, reduce manual work, and improve data reliability.
 
-**What I do:**
-- Design ETL pipelines processing 10k+ monthly transactions with Python and DuckDB
-- Build automation systems handling 8k+ documents monthly with scalable architectures
-- Develop predictive models using ML/NLP for workforce planning and risk analysis
-- Create interactive dashboards translating complex data into executive insights
+I combine hands-on experience in **Python, SQL, and DuckDB** with **business intelligence and automation tools** to design practical, production-oriented data solutions.
+
+### 🚀 What I do
+
+- Design and maintain **ETL pipelines** processing 10k+ monthly transactions using Python and DuckDB  
+- Build **automation systems** handling 8k+ documents per month, reducing manual workloads and operational risk  
+- Develop **predictive and analytical models** (ML / NLP) for workforce planning, demand forecasting, and risk analysis  
+- Create **interactive dashboards** in Power BI and Tableau that translate complex data into executive-level insights  
+- Bridge the gap between **technical teams and business stakeholders**, ensuring data solutions drive real impact  
 
 ### 🔧 Tech Stack
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-- ![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white)  
-- ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
-- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
-- ![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)  
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- **Programming & Data:** Python, SQL, DuckDB
+- **Data Formats:** Parquet, JSON, YAML
+- **Analytics & BI:** Power BI, Tableau
+- **Automation:** VBA, Power Automate, Workflow-based automation tools
+- **Version Control:** Git, GitHub  
 
-Currently expanding into advanced analytics and machine learning while preparing 
-for a Master's in Business Analytics.
+### 📈 Currently
 
-##⚡ Curious fact:
-- 🕹️ "I believe work shouldn’t look like it did in the 2000s—technology is here to make it smarter."
+- Expanding into **advanced analytics and machine learning**
+- Strengthening skills in **data modeling and scalable architectures**
+- Preparing for a **Master’s in Business Analytics**
+
+### ⚡ Curious fact
+
+🕹️ *I believe work shouldn’t look like it did in the 2000s — technology exists to make it smarter, not harder.*
+
 
 ## 📫 Let's Connect  
 
