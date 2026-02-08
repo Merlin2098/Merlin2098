@@ -1,30 +1,31 @@
 ## 👋 Hi, I'm Ricardo
 
-Data Analyst with a strong focus on **end-to-end data solutions**, specializing in transforming raw operational data into **actionable, decision-ready insights**. I work at the intersection of **data engineering, analytics, and automation**, helping organizations scale reporting, reduce manual work, and improve data reliability.
-
-I combine hands-on experience in **Python, SQL, and DuckDB** with **business intelligence and automation tools** to design practical, production-oriented data solutions.
+> I’m a **Data Analyst ⚡ Data Engineer ⚡ Solutions Architect** building **invocable data & automation systems**.  
+> I turn raw operational chaos into **reliable, decision-ready flows** — orchestrating pipelines, automation, and analytics like a spellbook of practical magic.  
+> Python, SQL, DuckDB, BI tools — my arsenal.  
+> My mission: **systems that act, not just report**.
 
 ### 🚀 What I do
 
-- Design and maintain **ETL pipelines** processing 10k+ monthly transactions using Python and DuckDB  
-- Build **automation systems** handling 8k+ documents per month, reducing manual workloads and operational risk  
-- Develop **predictive and analytical models** (ML / NLP) for workforce planning, demand forecasting, and risk analysis  
+- Design and maintain **ETL pipelines** processing **10k+ monthly transactions** using Python and DuckDB  
+- Build **automation systems** handling **8k+ documents per month**, reducing manual workload and operational risk  
+- Develop **predictive and analytical models (ML / NLP)** for workforce planning, demand forecasting, and risk analysis  
 - Create **interactive dashboards** in Power BI and Tableau that translate complex data into executive-level insights  
 - Bridge the gap between **technical teams and business stakeholders**, ensuring data solutions drive real impact  
 
 ### 🔧 Tech Stack
 
-- **Programming & Data:** Python, SQL, DuckDB
-- **Data Formats:** Parquet, JSON, YAML
-- **Analytics & BI:** Power BI, Tableau
-- **Automation:** VBA, Power Automate, Workflow-based automation tools
-- **Version Control:** Git, GitHub  
+**Programming & Data:** Python, SQL, DuckDB  
+**Data Formats:** Parquet, JSON, YAML  
+**Analytics & BI:** Power BI, Tableau  
+**Automation:** VBA, Power Automate, workflow-based automation tools  
+**Version Control:** Git, GitHub   
 
 ### 📈 Currently
 
-- Expanding into **advanced analytics and machine learning**
-- Strengthening skills in **data modeling and scalable architectures**
-- Preparing for a **Master’s in Business Analytics**
+- Expanding into **advanced analytics and machine learning**  
+- Strengthening skills in **data modeling and scalable architectures**  
+- Preparing for **AWS certifications**
 
 ### ⚡ Curious fact
 
