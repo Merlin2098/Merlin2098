@@ -1,35 +1,40 @@
 ## 👋 Hi, I'm Ricardo
 
-> I’m a **Data Analyst ⚡ Data Engineer ⚡ Solutions Architect** building **invocable data & automation systems**.  
-> I turn raw operational chaos into **reliable, decision-ready flows** — orchestrating pipelines, automation, and analytics like a spellbook of practical magic.  
-> Python, SQL, DuckDB, BI tools — my arsenal.  
-> My mission: **systems that act, not just report**.
+I’m a Data & Automation Engineer building scalable data systems and operational automation.
+
+I design pipelines and serverless workflows that transform raw operational data into reliable, decision-ready flows — reducing manual work and enabling faster execution.
+
+Python, SQL and AWS are my core tools to build systems that act, not just report.
 
 ### 🚀 What I do
 
-- Design and maintain **ETL pipelines** processing **10k+ monthly transactions** using Python and DuckDB  
-- Build **automation systems** handling **8k+ documents per month**, reducing manual workload and operational risk  
-- Develop **predictive and analytical models (ML / NLP)** for workforce planning, demand forecasting, and risk analysis  
-- Create **interactive dashboards** in Power BI and Tableau that translate complex data into executive-level insights  
-- Bridge the gap between **technical teams and business stakeholders**, ensuring data solutions drive real impact  
+- Design ETL pipelines processing 10k+ monthly transactions using Python and columnar data tools
+- Build automation systems handling 8k+ documents per month, reducing manual workload and operational risk
+- Develop event-driven workflows and serverless data processes on AWS
+- Create analytical dashboards in Power BI and Tableau to translate complex data into operational insights
+- Bridge technical and business domains to deliver practical, scalable data solutions
 
 ### 🔧 Tech Stack
 
-**Programming & Data:** Python, SQL, DuckDB  
-**Data Formats:** Parquet, JSON, YAML  
-**Analytics & BI:** Power BI, Tableau  
-**Automation:** VBA, Power Automate, workflow-based automation tools  
-**Version Control:** Git, GitHub   
+**Programming & Data:** Python · SQL
+**Cloud:** AWS (S3 · Lambda · IAM)
+**Data Formats:** Parquet · JSON · YAML 
+**Analytics & BI:** Power BI · Tableau
+**Automation:** Process automation systems · workflow-based tools
+**Version Control:** Git · GitHub  
 
 ### 📈 Currently
 
-- Expanding into **advanced analytics and machine learning**  
-- Strengthening skills in **data modeling and scalable architectures**  
-- Preparing for **AWS certifications**
+- Building serverless data workflows on AWS
+- Designing scalable ETL architectures for operational data
+- Expanding into event-driven automation systems
 
-### ⚡ Curious fact
+### ⚡ Philosophy
 
-🕹️ *I believe work shouldn’t look like it did in the 2000s — technology exists to make it smarter, not harder.*
+Technology should eliminate friction.
+
+My goal is simple:
+build systems that automate operations, scale with data, and help organizations move faster.
 
 
 ## 📫 Let's Connect  
