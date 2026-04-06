@@ -18,6 +18,7 @@ Python, SQL and AWS are my core tools to build systems that act, not just report
 
 **Programming & Data:** Python · SQL
 **Cloud:** AWS (S3 · Lambda · IAM)
+**Infraestructure as Code:** Terraform
 **Data Formats:** Parquet · JSON · YAML 
 **Analytics & BI:** Power BI · Tableau
 **Automation:** Process automation systems · workflow-based tools
