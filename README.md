@@ -18,8 +18,11 @@ My focus is not just moving data — but designing systems that **validate, orch
 
 ### 🔧 Tech Stack
 
+**Sofware Languages**
+Python · SQL · Go · Javascript(React/Nextjs)
+
 **Data Engineering**  
-Python · SQL · ETL/ELT Pipelines · Data Modeling · Medallion Architecture  
+ETL/ELT Pipelines · Data Modeling · Data Quality · Medallion Architecture  
 
 **Cloud (AWS)**  
 S3 · Lambda · Glue · Athena · EventBridge · IAM · CloudWatch  
