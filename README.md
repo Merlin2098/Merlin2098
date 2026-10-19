@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ricardo
 
-Data Engineer & Automation Engineer specialized in cloud-native data platforms and event-driven architectures on AWS.  
+Software & Data Engineer specialized in cloud-native data platforms and event-driven architectures on AWS.  
 AWS Certified Data Engineer – Associate.
 
 I design scalable pipelines and automation systems that transform fragmented operational processes into reliable, production-ready data infrastructure.
