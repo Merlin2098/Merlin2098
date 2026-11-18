@@ -1,109 +1,62 @@
-## 👋 Hi, I'm Ricardo
+## Hi, I'm Ricardo 👋
 
-Software & Data Engineer specialized in cloud-native data platforms and event-driven architectures on AWS.  
-AWS Certified Data Engineer – Associate.
+**Data Engineer on AWS · AWS Certified Data Engineer – Associate · Lima, Perú**
 
-I design scalable pipelines and automation systems that transform fragmented operational processes into reliable, production-ready data infrastructure.
+I build serverless, event-driven data platforms on AWS with Terraform, and I write hands-on labs that teach other people to do the same, in Spanish.
 
-My focus is not just moving data — but designing systems that **validate, orchestrate, and act on it**.
+My focus is not just moving data, but designing systems that **validate, orchestrate and act on it**.
 
-### 🚀 What I do
+---
 
-- Design **cloud-native data platforms (Lakehouse + Medallion Architecture)** on AWS  
-- Build **ETL/ELT pipelines** processing 10k+ monthly records using Python & SQL  
-- Develop **event-driven serverless systems** (Lambda, EventBridge, S3)  
-- Implement **Infrastructure as Code (IaC)** using Terraform for reproducible environments  
-- Automate document and operational workflows (8k+ monthly processes)  
-- Translate business problems into scalable, production-ready data systems 
+### ☁️ Featured AWS projects
 
-### 🔧 Tech Stack
+| Project | What it shows | Stack |
+|---|---|---|
+| [**aws-invoice-intelligence-pipeline**](https://github.com/Merlin2098/aws-invoice-intelligence-pipeline) | Serverless data product: invoice PDFs → Textract + Bedrock enrichment → Gold layer → natural-language queries | Textract · Bedrock · API Gateway · CloudFront · Lambda · Step Functions · SQS · Athena · Terraform |
+| [**aws-serverless-retail-datalake**](https://github.com/Merlin2098/aws-serverless-retail-datalake) | Event-driven ETL that normalizes CSV, Excel, JSON and PDF sales files into Bronze/Silver/Gold layers (webinar material) | S3 events · Lambda (ECR) · Glue · Athena · SNS · Terraform |
+| [**aws-spec-driven-invoice-lakehouse**](https://github.com/Merlin2098/aws-spec-driven-invoice-lakehouse) | Spec-driven lakehouse that validates, classifies and enriches invoices with no manual steps | Lambda (ECR) · SQS · Glue · Athena · SNS · Terraform |
+| [**aws-hr-serverless-lakehouse**](https://github.com/Merlin2098/aws-hr-serverless-lakehouse) | Medallion lakehouse for HR analytics, built for low cost and with CI | S3 · Step Functions · Glue · Athena · KMS · Terraform · GitHub Actions |
+| [**serverless-evaluations-pipeline**](https://github.com/Merlin2098/serverless-evaluations-pipeline) | Webhook → PDF report → S3 → email delivery | AWS SAM · Lambda · SES · S3 |
 
-**Sofware Languages**
-Python · SQL · Go · Javascript(React/Nextjs)
+---
 
-**Data Engineering**  
-ETL/ELT Pipelines · Data Modeling · Data Quality · Medallion Architecture  
+### 🎓 Teaching: *Bootcamp AWS: de Cloud a Data Lakehouse* (ESAN University · Datahackers)
 
-**Cloud (AWS)**  
-S3 · Lambda · Glue · Athena · EventBridge · IAM · CloudWatch  
+These are open, step-by-step labs in Spanish. Each one deploys with Terraform into the student's own AWS account and tears down completely when the session ends.
 
-**Infrastructure as Code**  
-Terraform (modular infrastructure, reproducible environments)  
+| # | Lab | Topic |
+|---|---|---|
+| 01 | [aws-lab-01-event-driven-etl](https://github.com/Merlin2098/aws-lab-01-event-driven-etl) | Your first event-driven ETL on AWS |
+| 02 | [aws-lab-02-medallion-etl-glue](https://github.com/Merlin2098/aws-lab-02-medallion-etl-glue) | Medallion ETL with Glue, EventBridge and Step Functions |
+| 03 | [aws-lab-03-data-stores](https://github.com/Merlin2098/aws-lab-03-data-stores) | Choosing the right store: S3, RDS, DynamoDB and Athena |
+| 04 | [aws-lab-04-glue-datalake](https://github.com/Merlin2098/aws-lab-04-glue-datalake) | Serverless data lake with Glue (PySpark) and Athena |
+| 05 | [aws-lab-05-redshift-serverless-dw](https://github.com/Merlin2098/aws-lab-05-redshift-serverless-dw) | Data warehousing with Redshift Serverless |
+| 06 | [aws-lab-06-serverless-pipeline](https://github.com/Merlin2098/aws-lab-06-serverless-pipeline) | Step Functions, containerized Lambda (ECR) and a Glue Crawler |
+| 07 | [aws-lab-07-kinesis-streaming](https://github.com/Merlin2098/aws-lab-07-kinesis-streaming) | Real-time streaming with Kinesis and Firehose |
 
-**Data Formats & Processing**  
-Parquet · JSON · YAML · Columnar Processing (DuckDB, Athena)  
+More labs: [Terraform essentials](https://github.com/Merlin2098/aws-lab-terraform-essentials) · [AWS CLI fundamentals](https://github.com/Merlin2098/aws-lab-cli-fundamentals) · [ECS Fargate](https://github.com/Merlin2098/aws-lab-ecs-fargate) · [EKS / Kubernetes](https://github.com/Merlin2098/aws-lab-eks-kubernetes) · [AWS + Terraform project template](https://github.com/Merlin2098/aws-terraform-data-template-course)
 
-**Analytics**  
-Power BI · Tableau  
+---
 
-**Tools**  
-Git · GitHub  
+### 🔧 Tech stack
+
+- **AWS:** S3 · Lambda · Glue · Athena · EventBridge · Step Functions · Kinesis · Redshift · ECS/EKS · Bedrock · Textract · IAM · CloudWatch
+- **IaC:** Terraform (modular, remote state) · AWS SAM
+- **Data:** Python · SQL · PySpark · DuckDB · Parquet · Medallion / Lakehouse architecture · Data quality
+- **Also:** Go · React / Next.js · Power BI · Tableau
 
 ### 📈 Currently
 
-- Building **end-to-end data platforms on AWS (Lakehouse architecture)**  
-- Applying **Terraform to manage scalable and reproducible infrastructure**  
-- Designing **event-driven pipelines with minimal operational overhead**  
-- Exploring **AI-powered data pipelines using Amazon Bedrock**
+- Building end-to-end lakehouse platforms on AWS with Terraform
+- Exploring AI-powered data pipelines with **Amazon Bedrock**
+- Designing event-driven pipelines with minimal operational overhead
+
+### ⚡ Principles
+
+**KISS over complexity** · **Event-driven over batch-first** · **Data quality starts at ingestion** · **Infrastructure is reproducible, never manual**
 
 ---
 
-## ⚡ Key Principles
+### 📫 Connect
 
-- **KISS over complexity** → Simple systems scale better  
-- **Event-driven over batch-first thinking**  
-- **Data quality starts at ingestion** (contracts + validation layers)  
-- **Infrastructure should be reproducible, not manual**  
-- **Automation > manual operations**  
-
----
-
-## 🧩 What makes my approach different
-
-I don’t just build dashboards or pipelines.
-
-I design **data systems as infrastructure**, combining:
-
-- Data Engineering  
-- Cloud Architecture  
-- Automation Systems  
-- Infrastructure as Code  
-
-This allows me to deliver solutions that are:
-- Scalable  
-- Auditable  
-- Cost-efficient  
-- Production-ready  
-
----
-
-### 🧠 Philosophy
-
-Technology should eliminate friction.
-
-My goal is to build systems that:
-- Automate operations  
-- Scale with data  
-- Enable faster and better decision-making  
-
-
-## 📫 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardouculmanaquispe/) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-de-proyectos-222662e8c9dc80ae9b68d1d797ae0afc) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rfuculmana@gmail.com) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:rfuculmana@hotmail.com)
-
-
-
-<!--
-**Merlin2098/Merlin2098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardouculmanaquispe/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-de-proyectos-222662e8c9dc80ae9b68d1d797ae0afc) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rfuculmana@gmail.com)
