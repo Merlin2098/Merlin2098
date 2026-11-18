@@ -1,10 +1,16 @@
 ## Hi, I'm Ricardo 👋
 
-**Data Engineer on AWS · AWS Certified Data Engineer – Associate · Lima, Perú**
+**Data Engineer on AWS · 3× AWS Certified (Associate) · Lima, Perú**
 
 I build serverless, event-driven data platforms on AWS with Terraform, and I write hands-on labs that teach other people to do the same, in Spanish.
 
 My focus is not just moving data, but designing systems that **validate, orchestrate and act on it**.
+
+<p>
+  <a href="https://www.credly.com/badges/627529e9-a6be-4780-b5d3-3ff45159b71b/public_url"><img src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="100" alt="AWS Certified Data Engineer – Associate" title="AWS Certified Data Engineer – Associate"></a>
+  <a href="https://www.credly.com/badges/ef1758e1-07e7-4af9-b4bd-5000bec91646/public_url"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate"></a>
+  <a href="https://www.credly.com/badges/37dc184c-8e61-4e26-ab97-bea3d0fb10f0/public_url"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100" alt="AWS Certified Developer – Associate" title="AWS Certified Developer – Associate"></a>
+</p>
 
 ---
 
